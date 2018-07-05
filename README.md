@@ -56,6 +56,7 @@ The game will have the following features:
 
 ## Prototype of Game View
 
+![Picture with the mockup](https://github.com/sebastian-porling/SpaceRun/blob/master/mockup.jpg "Figure 1, Prototype")
 Figure 1, Prototype
 
 ## Assets
