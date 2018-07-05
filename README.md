@@ -68,3 +68,10 @@ Figure 1, Prototype
 * https://assetstore.unity.com/packages/tools/particles-effects/volumetric-lines-29160 vfx for lasers
 * https://assetstore.unity.com/packages/templates/packs/space-shooter-free-107260 explosion vfx
 * https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116 explosion sfx
+
+## Feedback 
+This game got some feedback from the teachers. They want the game to have a little more features:
+* Target platform: you first state that the game will be played using either a mouse or touchpad, but later on you say that firing the projectile is done by either left-clicking or tapping the screen. From this, I understand that you intend to develop the game for both PC and mobile. While this is not a bad idea per se, keep in mind that in order to make the game playable on a touch device you will have to develop a fairly different control system
+* How do the enemy ships shoot? since the enemies can fly only in a straight line, I assume they also shoot only in front of themselves. This is too plain. Consider adding different types of enemies, e.g. varying in the projectiles that they shoot, or how they move. 
+* Powerups! Powerups are fairly easy to implement and they add depth to the game. Consider implementing some, e.g. extra health, faster rate of fire, temporary ability to destroy asteroids, etc.
+
